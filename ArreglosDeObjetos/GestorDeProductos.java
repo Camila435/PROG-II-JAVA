@@ -1,4 +1,4 @@
-package Proyectos.ArreglosDeObjetos;
+package ArreglosDeObjetos;
 
 import java.util.Scanner;
 

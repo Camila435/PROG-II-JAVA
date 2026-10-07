@@ -1,4 +1,4 @@
-package Proyectos.POJO;
+package POJO;
 public  class  Employee { 
     private  int id; 
     public String name; 

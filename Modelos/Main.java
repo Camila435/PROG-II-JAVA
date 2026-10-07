@@ -1,4 +1,4 @@
-package modelos;
+package Modelos;
 
 /**
  * Clase ejecutable para verificar encapsulamiento, polimorfismo y manejo seguro de memoria.

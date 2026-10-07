@@ -1,4 +1,4 @@
-package modelos;
+package Modelos;
 
 /**
  * Superclase que modela una persona base.

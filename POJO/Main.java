@@ -1,4 +1,4 @@
-package Proyectos.POJO;
+package POJO;
 public  class  Main { 
     public  static  void  main (String[] args) { 
 
